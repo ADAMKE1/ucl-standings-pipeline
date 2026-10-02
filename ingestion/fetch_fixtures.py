@@ -5,6 +5,7 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
+
 load_dotenv()
 
 BASE_URL = "https://v3.football.api-sports.io"
