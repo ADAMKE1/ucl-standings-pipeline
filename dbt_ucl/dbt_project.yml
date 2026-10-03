@@ -1,0 +1,10 @@
+name: "dbt_ucl"
+version: "1.0.0"
+config-version: 2
+profile: dbt_ucl
+
+model-paths: ["models"]
+
+models:
+  dbt_ucl:
+    +materialized: table

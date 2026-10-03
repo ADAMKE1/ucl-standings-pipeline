@@ -1,0 +1,9 @@
+version : 2
+
+sources :
+  - name : ucl_raw
+    database : ucl-pipeline
+    schema : ucl_raw
+    tables :
+      - name : fixtures
+        identifier : "fixtures_*"
