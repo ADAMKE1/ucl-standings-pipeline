@@ -1,0 +1,24 @@
+version: 2
+
+models:
+  - name: stg_matches
+    columns:
+      - name: fixture_id
+        data_tests:
+          - unique
+          - not_null
+      - name: matchday
+        data_tests:
+          - not_null
+      - name: home_team_id
+        data_tests:
+          - not_null
+      - name: away_team_id
+        data_tests:
+          - not_null
+      - name: home_goals
+        data_tests:
+          - not_null
+      - name: away_goals
+        data_tests:
+          - not_null

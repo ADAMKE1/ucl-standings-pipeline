@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: fct_standings_by_matchday
+    columns:
+      - name: team_id
+        data_tests:
+          - not_null
+      - name: points_cumul
+        data_tests:
+          - not_null
+      - name: rank
+        data_tests:
+          - not_null
