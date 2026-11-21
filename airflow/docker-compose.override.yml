@@ -1,0 +1,12 @@
+services:
+  scheduler:
+    volumes:
+      - ../ingestion:/usr/local/airflow/ingestion
+      - ../dbt_ucl:/usr/local/airflow/dbt_ucl
+      - C:/Users/kerro/secrets:/usr/local/airflow/secrets:ro
+
+  dag-processor:
+    volumes:
+      - ../ingestion:/usr/local/airflow/ingestion
+      - ../dbt_ucl:/usr/local/airflow/dbt_ucl
+      - C:/Users/kerro/secrets:/usr/local/airflow/secrets:ro
