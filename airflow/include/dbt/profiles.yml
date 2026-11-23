@@ -1,0 +1,14 @@
+# Profil dbt utilisé À L'INTÉRIEUR du conteneur Airflow.
+# Même contenu que C:\Users\kerro\.dbt\profiles.yml, seul le chemin de la clé change.
+# Aucun secret ici : seulement le chemin de la clé, montée en lecture seule.
+dbt_ucl:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      keyfile: /usr/local/airflow/secrets/ucl-sa.json
+      project: ucl-pipeline
+      dataset: ucl_dbt
+      location: EU
+      threads: 4

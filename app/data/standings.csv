@@ -1,0 +1,289 @@
+matchday,team_id,team_name,matches_played,points_cumul,goal_diff_cumul,goals_for_cumul,rank
+1,40,Liverpool,1,3,2,3,7
+1,42,Arsenal,1,1,0,0,16
+1,50,Manchester City,1,1,0,0,16
+1,66,Aston Villa,1,3,3,3,4
+1,79,Lille,1,0,-2,0,30
+1,85,Paris Saint Germain,1,3,1,1,15
+1,91,Monaco,1,3,1,2,11
+1,106,Stade Brestois 29,1,3,1,2,11
+1,157,Bayern München,1,3,7,9,1
+1,165,Borussia Dortmund,1,3,3,3,4
+1,168,Bayer Leverkusen,1,3,4,4,3
+1,172,VfB Stuttgart,1,0,-2,1,27
+1,173,RB Leipzig,1,0,-1,1,22
+1,197,PSV Eindhoven,1,0,-2,1,27
+1,209,Feyenoord,1,0,-4,0,35
+1,211,Benfica,1,3,1,2,11
+1,228,Sporting CP,1,3,2,2,10
+1,247,Celtic,1,3,4,5,2
+1,489,AC Milan,1,0,-2,1,27
+1,496,Juventus,1,3,2,3,7
+1,499,Atalanta,1,1,0,0,16
+1,500,Bologna,1,1,0,0,16
+1,505,Inter,1,1,0,0,16
+1,529,Barcelona,1,0,-1,1,22
+1,530,Atletico Madrid,1,3,1,2,11
+1,541,Real Madrid,1,3,2,3,7
+1,547,Girona,1,0,-1,0,26
+1,550,Shakhtar Donetsk,1,1,0,0,16
+1,565,BSC Young Boys,1,0,-3,0,31
+1,569,Club Brugge KV,1,0,-3,0,31
+1,571,Red Bull Salzburg,1,0,-3,0,31
+1,598,FK Crvena Zvezda,1,0,-1,1,22
+1,620,Dinamo Zagreb,1,0,-7,2,36
+1,628,Sparta Praha,1,3,3,3,4
+1,637,Sturm Graz,1,0,-1,1,22
+1,656,Slovan Bratislava,1,0,-4,1,34
+2,40,Liverpool,2,6,4,5,5
+2,42,Arsenal,2,4,2,2,13
+2,50,Manchester City,2,4,4,4,8
+2,66,Aston Villa,2,6,4,4,6
+2,79,Lille,2,3,-1,1,18
+2,85,Paris Saint Germain,2,3,-1,1,18
+2,91,Monaco,2,4,1,4,14
+2,106,Stade Brestois 29,2,6,5,6,2
+2,157,Bayern München,2,3,6,9,15
+2,165,Borussia Dortmund,2,6,9,10,1
+2,168,Bayer Leverkusen,2,6,5,5,4
+2,172,VfB Stuttgart,2,1,-2,2,24
+2,173,RB Leipzig,2,0,-2,3,29
+2,197,PSV Eindhoven,2,1,-2,2,24
+2,209,Feyenoord,2,3,-3,3,22
+2,211,Benfica,2,6,5,6,2
+2,228,Sporting CP,2,4,2,3,12
+2,247,Celtic,2,3,-2,6,20
+2,489,AC Milan,2,0,-3,1,32
+2,496,Juventus,2,6,3,6,7
+2,499,Atalanta,2,4,3,3,11
+2,500,Bologna,2,1,-2,0,26
+2,505,Inter,2,4,4,4,8
+2,529,Barcelona,2,3,4,6,16
+2,530,Atletico Madrid,2,3,-3,2,23
+2,541,Real Madrid,2,3,1,3,17
+2,547,Girona,2,0,-2,2,30
+2,550,Shakhtar Donetsk,2,1,-3,0,27
+2,565,BSC Young Boys,2,0,-8,0,36
+2,569,Club Brugge KV,2,3,-2,1,21
+2,571,Red Bull Salzburg,2,0,-7,0,34
+2,598,FK Crvena Zvezda,2,0,-5,1,33
+2,620,Dinamo Zagreb,2,1,-7,4,28
+2,628,Sparta Praha,2,4,3,4,10
+2,637,Sturm Graz,2,0,-2,1,31
+2,656,Slovan Bratislava,2,0,-8,1,35
+3,40,Liverpool,3,9,5,6,2
+3,42,Arsenal,3,7,3,3,9
+3,50,Manchester City,3,7,9,9,3
+3,66,Aston Villa,3,9,6,6,1
+3,79,Lille,3,6,1,4,15
+3,85,Paris Saint Germain,3,4,-1,2,19
+3,91,Monaco,3,7,5,9,4
+3,106,Stade Brestois 29,3,7,5,7,5
+3,157,Bayern München,3,3,3,10,23
+3,165,Borussia Dortmund,3,6,6,12,11
+3,168,Bayer Leverkusen,3,7,5,6,6
+3,172,VfB Stuttgart,3,4,-1,3,18
+3,173,RB Leipzig,3,0,-3,3,31
+3,197,PSV Eindhoven,3,2,-2,3,28
+3,209,Feyenoord,3,6,-1,6,16
+3,211,Benfica,3,6,3,7,13
+3,228,Sporting CP,3,7,4,5,8
+3,247,Celtic,3,4,-2,6,20
+3,489,AC Milan,3,3,-1,4,25
+3,496,Juventus,3,6,2,6,14
+3,499,Atalanta,3,5,3,3,17
+3,500,Bologna,3,1,-4,0,29
+3,505,Inter,3,7,5,5,7
+3,529,Barcelona,3,6,7,10,10
+3,530,Atletico Madrid,3,3,-5,3,27
+3,541,Real Madrid,3,6,4,8,12
+3,547,Girona,3,3,0,4,24
+3,550,Shakhtar Donetsk,3,1,-4,0,29
+3,565,BSC Young Boys,3,0,-9,0,34
+3,569,Club Brugge KV,3,3,-4,2,26
+3,571,Red Bull Salzburg,3,0,-9,0,34
+3,598,FK Crvena Zvezda,3,0,-9,2,33
+3,620,Dinamo Zagreb,3,4,-5,6,22
+3,628,Sparta Praha,3,4,-2,4,21
+3,637,Sturm Graz,3,0,-4,1,32
+3,656,Slovan Bratislava,3,0,-10,1,36
+4,40,Liverpool,4,12,9,10,1
+4,42,Arsenal,4,7,2,3,12
+4,50,Manchester City,4,7,6,10,10
+4,66,Aston Villa,4,9,5,6,8
+4,79,Lille,4,7,1,5,14
+4,85,Paris Saint Germain,4,4,-2,3,25
+4,91,Monaco,4,10,6,10,3
+4,106,Stade Brestois 29,4,10,6,9,4
+4,157,Bayern München,4,6,4,11,17
+4,165,Borussia Dortmund,4,9,7,13,7
+4,168,Bayer Leverkusen,4,7,1,6,13
+4,172,VfB Stuttgart,4,4,-3,3,27
+4,173,RB Leipzig,4,0,-5,4,32
+4,197,PSV Eindhoven,4,5,2,7,24
+4,209,Feyenoord,4,6,-3,7,21
+4,211,Benfica,4,6,2,7,19
+4,228,Sporting CP,4,10,7,9,2
+4,247,Celtic,4,7,0,9,15
+4,489,AC Milan,4,6,1,7,20
+4,496,Juventus,4,7,2,7,11
+4,499,Atalanta,4,8,5,5,9
+4,500,Bologna,4,1,-5,0,31
+4,505,Inter,4,10,6,6,5
+4,529,Barcelona,4,9,10,15,6
+4,530,Atletico Madrid,4,6,-4,5,23
+4,541,Real Madrid,4,6,2,9,18
+4,547,Girona,4,3,-4,4,29
+4,550,Shakhtar Donetsk,4,4,-3,2,28
+4,565,BSC Young Boys,4,0,-10,1,34
+4,569,Club Brugge KV,4,6,-3,3,22
+4,571,Red Bull Salzburg,4,3,-7,3,30
+4,598,FK Crvena Zvezda,4,0,-12,4,35
+4,620,Dinamo Zagreb,4,7,-2,10,16
+4,628,Sparta Praha,4,4,-3,5,26
+4,637,Sturm Graz,4,0,-5,1,33
+4,656,Slovan Bratislava,4,0,-13,2,36
+5,40,Liverpool,5,15,11,12,1
+5,42,Arsenal,5,10,6,8,7
+5,50,Manchester City,5,8,6,13,17
+5,66,Aston Villa,5,10,5,6,9
+5,79,Lille,5,10,2,7,12
+5,85,Paris Saint Germain,5,4,-3,3,25
+5,91,Monaco,5,10,5,12,8
+5,106,Stade Brestois 29,5,10,3,9,11
+5,157,Bayern München,5,9,5,12,13
+5,165,Borussia Dortmund,5,12,10,16,4
+5,168,Bayer Leverkusen,5,10,6,11,6
+5,172,VfB Stuttgart,5,4,-7,4,27
+5,173,RB Leipzig,5,0,-6,4,34
+5,197,PSV Eindhoven,5,8,3,10,18
+5,209,Feyenoord,5,7,-3,10,21
+5,211,Benfica,5,9,3,10,14
+5,228,Sporting CP,5,10,3,10,10
+5,247,Celtic,5,8,0,10,20
+5,489,AC Milan,5,9,2,10,16
+5,496,Juventus,5,8,2,7,19
+5,499,Atalanta,5,11,10,11,5
+5,500,Bologna,5,1,-6,1,33
+5,505,Inter,5,13,7,7,2
+5,529,Barcelona,5,12,13,18,3
+5,530,Atletico Madrid,5,9,2,11,15
+5,541,Real Madrid,5,6,0,9,24
+5,547,Girona,5,3,-5,4,30
+5,550,Shakhtar Donetsk,5,4,-4,4,26
+5,565,BSC Young Boys,5,0,-15,2,36
+5,569,Club Brugge KV,5,7,-3,4,22
+5,571,Red Bull Salzburg,5,3,-12,3,32
+5,598,FK Crvena Zvezda,5,3,-8,9,31
+5,620,Dinamo Zagreb,5,7,-5,10,23
+5,628,Sparta Praha,5,4,-9,5,28
+5,637,Sturm Graz,5,3,-4,2,29
+5,656,Slovan Bratislava,5,0,-14,4,35
+6,40,Liverpool,6,18,12,13,1
+6,42,Arsenal,6,13,9,11,3
+6,50,Manchester City,6,8,4,13,22
+6,66,Aston Villa,6,13,6,9,5
+6,79,Lille,6,13,3,10,8
+6,85,Paris Saint Germain,6,7,0,6,25
+6,91,Monaco,6,10,2,12,16
+6,106,Stade Brestois 29,6,13,4,10,7
+6,157,Bayern München,6,12,9,17,10
+6,165,Borussia Dortmund,6,12,9,18,9
+6,168,Bayer Leverkusen,6,13,7,12,4
+6,172,VfB Stuttgart,6,7,-3,9,26
+6,173,RB Leipzig,6,0,-7,6,34
+6,197,PSV Eindhoven,6,8,2,10,23
+6,209,Feyenoord,6,10,-1,14,18
+6,211,Benfica,6,10,3,10,15
+6,228,Sporting CP,6,10,2,11,17
+6,247,Celtic,6,9,0,10,21
+6,489,AC Milan,6,12,3,12,12
+6,496,Juventus,6,11,4,9,14
+6,499,Atalanta,6,11,9,13,13
+6,500,Bologna,6,2,-6,1,33
+6,505,Inter,6,13,6,7,6
+6,529,Barcelona,6,15,14,21,2
+6,530,Atletico Madrid,6,12,4,14,11
+6,541,Real Madrid,6,9,1,12,20
+6,547,Girona,6,3,-6,4,30
+6,550,Shakhtar Donetsk,6,4,-8,5,27
+6,565,BSC Young Boys,6,0,-19,3,36
+6,569,Club Brugge KV,6,10,-2,6,19
+6,571,Red Bull Salzburg,6,3,-15,3,32
+6,598,FK Crvena Zvezda,6,3,-9,10,31
+6,620,Dinamo Zagreb,6,8,-5,10,24
+6,628,Sparta Praha,6,4,-11,7,28
+6,637,Sturm Graz,6,3,-5,4,29
+6,656,Slovan Bratislava,6,0,-16,5,35
+7,40,Liverpool,7,21,13,15,1
+7,42,Arsenal,7,16,12,14,3
+7,50,Manchester City,7,8,2,15,25
+7,66,Aston Villa,7,13,5,9,9
+7,79,Lille,7,13,2,11,12
+7,85,Paris Saint Germain,7,10,2,10,22
+7,91,Monaco,7,13,3,13,10
+7,106,Stade Brestois 29,7,13,2,10,13
+7,157,Bayern München,7,12,6,17,15
+7,165,Borussia Dortmund,7,12,8,19,14
+7,168,Bayer Leverkusen,7,13,6,13,8
+7,172,VfB Stuttgart,7,10,-1,12,24
+7,173,RB Leipzig,7,3,-6,8,30
+7,197,PSV Eindhoven,7,11,3,13,19
+7,209,Feyenoord,7,13,2,17,11
+7,211,Benfica,7,10,2,14,21
+7,228,Sporting CP,7,10,1,12,23
+7,247,Celtic,7,12,1,11,18
+7,489,AC Milan,7,15,4,13,6
+7,496,Juventus,7,12,4,9,17
+7,499,Atalanta,7,14,14,18,7
+7,500,Bologna,7,5,-5,3,28
+7,505,Inter,7,16,7,8,4
+7,529,Barcelona,7,18,15,26,2
+7,530,Atletico Madrid,7,15,5,16,5
+7,541,Real Madrid,7,12,5,17,16
+7,547,Girona,7,3,-7,4,31
+7,550,Shakhtar Donetsk,7,7,-6,7,27
+7,565,BSC Young Boys,7,0,-20,3,36
+7,569,Club Brugge KV,7,11,-2,6,20
+7,571,Red Bull Salzburg,7,3,-19,4,34
+7,598,FK Crvena Zvezda,7,3,-10,12,32
+7,620,Dinamo Zagreb,7,8,-8,10,26
+7,628,Sparta Praha,7,4,-12,7,29
+7,637,Sturm Graz,7,3,-10,4,33
+7,656,Slovan Bratislava,7,0,-18,6,35
+8,40,Liverpool,8,21,12,17,1
+8,42,Arsenal,8,19,13,16,3
+8,50,Manchester City,8,11,4,18,22
+8,66,Aston Villa,8,16,7,13,8
+8,79,Lille,8,16,7,17,7
+8,85,Paris Saint Germain,8,13,5,14,15
+8,91,Monaco,8,13,0,13,17
+8,106,Stade Brestois 29,8,13,-1,10,18
+8,157,Bayern München,8,15,8,20,11
+8,165,Borussia Dortmund,8,15,10,22,10
+8,168,Bayer Leverkusen,8,16,8,15,6
+8,172,VfB Stuttgart,8,10,-4,13,26
+8,173,RB Leipzig,8,3,-7,8,32
+8,197,PSV Eindhoven,8,14,4,16,14
+8,209,Feyenoord,8,13,-3,18,19
+8,211,Benfica,8,13,4,16,16
+8,228,Sporting CP,8,11,1,13,23
+8,247,Celtic,8,12,-1,13,21
+8,489,AC Milan,8,15,3,14,13
+8,496,Juventus,8,12,2,9,20
+8,499,Atalanta,8,15,14,20,9
+8,500,Bologna,8,6,-5,4,28
+8,505,Inter,8,19,10,11,4
+8,529,Barcelona,8,19,15,28,2
+8,530,Atletico Madrid,8,18,8,20,5
+8,541,Real Madrid,8,15,8,20,11
+8,547,Girona,8,3,-8,5,33
+8,550,Shakhtar Donetsk,8,7,-8,8,27
+8,565,BSC Young Boys,8,0,-21,3,36
+8,569,Club Brugge KV,8,11,-4,7,24
+8,571,Red Bull Salzburg,8,3,-22,5,34
+8,598,FK Crvena Zvezda,8,6,-9,13,29
+8,620,Dinamo Zagreb,8,11,-7,12,25
+8,628,Sparta Praha,8,4,-14,7,31
+8,637,Sturm Graz,8,6,-9,5,30
+8,656,Slovan Bratislava,8,0,-20,7,35
