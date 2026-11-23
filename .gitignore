@@ -3,4 +3,4 @@
 *.json
 __pycache__/
 target/
-logs/
+logs/.user.yml
